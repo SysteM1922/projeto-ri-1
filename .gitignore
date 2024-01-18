@@ -1,0 +1,14 @@
+collections/
+questions/
+venv
+wsl_venv
+__pycache__
+.temp_index
+index
+cache*
+document_mapping
+dictionary
+*.jsonl
+output*
+questions_*
+metadata*
